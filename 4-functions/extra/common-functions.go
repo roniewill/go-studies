@@ -1,8 +1,10 @@
-package main
+package extra
 
 import "fmt"
 
-func main() {
+func commonFunctions() {
+	fmt.Println("-------- Functions - Common Functions --------")
+
 	result := sum(5, 3)
 	fmt.Println(result)
 
