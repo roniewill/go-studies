@@ -4,4 +4,6 @@ func Load() {
 	commonFunctions()
 	returnNamed()
 	variatic()
+	anonymousFunctions()
+	recursiveFunctions()
 }
