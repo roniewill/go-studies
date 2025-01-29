@@ -3,5 +3,7 @@ package main
 import "functions/extra"
 
 func main() {
-	extra.Load()
+	// extra.Load()
+	// extra.PanicRecoverFunc()
+	extra.TestPointerFunc()
 }
